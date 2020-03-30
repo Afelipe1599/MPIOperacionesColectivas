@@ -6,5 +6,7 @@
 
 Implementar con las funciones MPI_Send() y MPI_Recv() la funcionalidad de las siguientes funciones:
 	-MPI_Bcast()
+    
 	-MPI_Scatter()
+    
 	-MPI_Gather()
