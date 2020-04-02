@@ -13,9 +13,13 @@
 
     
 3)Usando la función MPI_Scatter() y MPI_Gather() calcule de manera distribuida el promedio de un vector de tamaño N. A continuación el algoritmo:
+
 	-Genere un arreglo de tamaño N con N números aleatorios.
+    
 	-Distribuya el contenido del vector entre todos los procesos que forman parte de la ejecución de la aplicación de modo que a cada proceso le toque la misma cantidad de elementos del vector.
+    
 	-Cada proceso calcula su promedio.
+    
 	-Se reúne el promedio de cada proceso y se calcula el promedio de esos promedios parciales.
     
 [punto3.c](https://github.com/Afelipe1599/MPIOperacionesColectivas/blob/master/punto3.c) 
