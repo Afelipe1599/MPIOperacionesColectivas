@@ -6,11 +6,9 @@
 
 1)Implementar con las funciones MPI_Send() y MPI_Recv() la funcionalidad de las siguientes funciones:
 
-	-MPI_Bcast()
+	[-MPI_Bcast()](https://github.com/Afelipe1599/MPIOperacionesColectivas/blob/master/MPI_Bcast.c)
     
-	-MPI_Scatter()
+	[-MPI_Scatter()](https://github.com/Afelipe1599/MPIOperacionesColectivas/blob/master/MPI_Scatter.c)
     
-	-MPI_Gather()
     
 2)En esta página se presenta una implementación alterna de MPI_Bcast() usando MPI_Send() y MPI_Recv(). Comparar los tiempos de ejecución de la versión alterna con la versión original de MPI_Bcast() así como lo establece el enlace. ¿Sus resultados son consistentes con lo que se sugiere en ese enlace?
-
