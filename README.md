@@ -16,5 +16,4 @@
 	-Cada proceso calcula su promedio.
 	-Se reúne el promedio de cada proceso y se calcula el promedio de esos promedios parciales.
     
-    [https://github.com/Afelipe1599/MPIOperacionesColectivas/blob/master/punto3.c](punto3.c)
-
+    [punto3.c](https://github.com/Afelipe1599/MPIOperacionesColectivas/blob/master/punto3.c) 
