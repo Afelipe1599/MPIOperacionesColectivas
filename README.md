@@ -6,7 +6,8 @@
 
 1)Implementar con las funciones MPI_Send() y MPI_Recv() la funcionalidad de las siguientes funciones:
 
-	[-MPI_Bcast()](https://github.com/Afelipe1599/MPIOperacionesColectivas/blob/master/MPI_Bcast.c)
+	
+	-MPI_Bcast()
     
 	[-MPI_Scatter()](https://github.com/Afelipe1599/MPIOperacionesColectivas/blob/master/MPI_Scatter.c)
     
